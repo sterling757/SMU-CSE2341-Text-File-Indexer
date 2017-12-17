@@ -1,8 +1,8 @@
 #include "readinandparse.h"
 #include<fstream>
 #include <iostream>
-#include "../../lib/dsstring.h"
-#include "../../lib/dsvector.h"
+#include "dsstring.h"
+#include "dsvector.h"
 #include "word.h"
 #include <stdio.h>
 #include <stdlib.h>
