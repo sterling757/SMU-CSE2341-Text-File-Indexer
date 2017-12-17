@@ -2,8 +2,8 @@
 #define READINANDPARSE_H
 #include <iostream>
 #include "word.h"
-#include "../../lib/dsvector.h"
-#include "../../lib/dsstring.h"
+#include "dsvector.h"
+#include "dsstring.h"
 class readInAndParse
 {
 private:
