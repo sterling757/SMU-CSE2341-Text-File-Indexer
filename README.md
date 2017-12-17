@@ -11,14 +11,14 @@ The program then parses the words and their respective page numbers and indexes 
 The results are then written to an output.txt file and displayed in alphabetical order, with the page numbers in ascending order.
 
 
-<b>Data Structures Used</b>
+<b><h3>Data Structures Used</h3></b>
 
 I was required to create my own Vector class to use in making this. I was not allowed to use the standard library <vector> 
   
 I included the DSVector.h and .cpp files in the repository
 
 
-<b>Instructions</b>
+<b><h3>Instructions</h3></b>
 
 In order to properly gain results, the specified .txt file must be passed through the command line as the first arg.
 
