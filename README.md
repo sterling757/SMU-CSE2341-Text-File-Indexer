@@ -29,5 +29,5 @@ Each word must be on its own line as I used the newline character to delimit.
 Finally, to see the results, the output.txt file must also be the second arg.
 
 
-Example input.txt and output.txt files have been included!
+<b>Example input.txt and output.txt files have been included!</b>
 
