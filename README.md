@@ -1,4 +1,4 @@
-# SMUCSE2341-.Txt-Fille-Indexer
+# SMUCSE2341-Text-File-Indexer
 This is a project that was assigned to me during my Data Structures Class.
 
 
