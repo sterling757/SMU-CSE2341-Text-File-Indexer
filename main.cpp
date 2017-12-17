@@ -1,7 +1,7 @@
 #ifndef CATCH_CONFIG_RUNNER
 #define CATCH_CONFIG_RUNNER
 #include <iostream>
-#include "../../lib/test.cpp"
+#include "test.cpp"
 #include "readinandparse.h"
 
   int main(int argc, char *argv[]){
