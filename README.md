@@ -15,7 +15,9 @@ The results are then written to an output.txt file and displayed in alphabetical
 
 I was required to create my own Vector class to use in making this. I was not allowed to use the standard library <vector> 
   
-I included the DSVector.h and .cpp files in the repository
+I included the dsvector.h file in the repository.
+
+<b>If any Custom Data Structures are not included, they are all in my "My Custom Data Structures" repo.</b>
 
 
 <b><h3>Instructions</h3></b>
