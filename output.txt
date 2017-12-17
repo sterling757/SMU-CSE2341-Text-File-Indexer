@@ -1,0 +1,8 @@
+[A]
+an: 3
+[E]
+example-syntax: 8
+[I]
+is: 2, 3
+[T]
+this: 1
